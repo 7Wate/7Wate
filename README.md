@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is 7wate
-Skills: C&C++ / Java / Python / Linux
+Skills: C&C++ / Rust / Python / Linux
 
 - 🔭 I’m currently working on earth 
 - 🌱 I’m currently learning Linux 
