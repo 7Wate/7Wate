@@ -1,5 +1,5 @@
 ## Hi there 👋, my name is 7wate
-Skills: C&C++ / Rust / Python / Linux
+Skills: Python / Rust / C&C++ / Linux
 
 - 🔭 I’m currently working on earth 
 - 🌱 I’m currently learning Linux 
@@ -12,12 +12,5 @@ Skills: C&C++ / Rust / Python / Linux
        alt="7wate's github stats" />
 </a> 
 
-
-
-
-
-
-
-[![7Wate`s GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=7wate&theme=minimal)](https://github.com/7wate/github-readme-activity-graph)
 
 
