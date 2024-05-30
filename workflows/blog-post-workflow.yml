@@ -3,6 +3,7 @@ on:
   schedule:
     # Runs every hour
     - cron: '0 */6 * * *'
+  workflow_dispatch:  # 手动触发
 jobs:
   update-readme-with-blog:
     name: Update this repo's README with latest blog posts
