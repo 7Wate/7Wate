@@ -1,9 +1,10 @@
-<h1 >Hi 👋, I'm SevenWate</h1>
+## Hi there 👋, My name is 7wate 🤓
 
+- 🔭 I’m currently working on Earth 🌍
+- 💬 Ask me about Aaa…… 🤔
+- 📫 How to reach me: [admin@7wate.com](mailto:admin@7wate.com)
+- 🔑 My GPG page: [gpg.7wate.com](https://gpg.7wate.com/)
 
-🔭 I’m currently working on **earth**
-
-📫 How to reach me **sevenwate@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
