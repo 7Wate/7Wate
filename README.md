@@ -8,9 +8,9 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [乌兰哈达火山银河之旅](https://blog.7wate.com/archives/wu-lan-ha-da-huo-shan-yin-he-zhi-lu)
 - [記伍月](https://blog.7wate.com/archives/ji-wu-yue)
 - [继续开荒我那一亩三分地](https://blog.7wate.com/archives/ji-xu-kai-huang-wo-na-yi-mu-san-fen-di)
 - [打工三年记](https://blog.7wate.com/archives/da-gong-san-nian-ji)
 - [夜泊西湖听雨](https://blog.7wate.com/archives/ye-bo-xi-hu-ting-yu)
-- [师从 ChatGPT](https://blog.7wate.com/archives/shi-cong-chatgpt)
 <!-- BLOG-POST-LIST:END -->
